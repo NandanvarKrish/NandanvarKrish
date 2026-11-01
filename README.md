@@ -25,7 +25,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## `$ whoami`
 
@@ -49,7 +49,7 @@ class Krish:
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 🧭 My Direction
 
@@ -67,7 +67,7 @@ class Krish:
 
 > 🎯 **Long-term goal:** become an engineer who can build complete, useful products — from reliable software foundations to intelligent, AI-powered systems.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 🛠️ Technology & Tools
 
@@ -89,7 +89,7 @@ class Krish:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 🚀 Selected Projects
 
@@ -169,7 +169,7 @@ A team project built during the Smart India Hackathon journey.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 📚 Currently Learning
 
@@ -201,14 +201,15 @@ flowchart LR
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NandanvarKrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanvarKrish&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/github/followers/NandanvarKrish?style=for-the-badge&logo=github&color=1D3557&labelColor=101827" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/NandanvarKrish&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=1D3557&labelColor=101827" />
+<img src="https://img.shields.io/github/created-at/NandanvarKrish?style=for-the-badge&logo=github&label=On%20GitHub%20Since&color=1D3557&labelColor=101827" />
 
 <br/><br/>
 
@@ -216,7 +217,7 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 🐍 Contribution Activity
 
@@ -226,7 +227,7 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 💡 My Philosophy
 
@@ -240,7 +241,7 @@ I believe the best way to understand technology is to build with it, experiment,
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## 🌐 Find Me Online
 
