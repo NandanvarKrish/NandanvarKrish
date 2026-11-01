@@ -21,15 +21,12 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=NandanvarKrish&style=for-the-badge&color=457B9D&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/NandanvarKrish?style=for-the-badge&logo=github&color=1D3557&labelColor=101827" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
 ## `$ whoami`
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
 
 Hey! I'm **Krish Nandanvar** 👋, an AI/ML undergraduate from **Surat, Gujarat, India**.
 
@@ -46,8 +43,6 @@ class Krish:
     def open_to(self):
         return ["learning", "collaboration", "building meaningful things"]
 ```
-
-<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D3557,100:457B9D&height=3" width="100%" />
 
