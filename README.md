@@ -1,161 +1,161 @@
- <div align="center">
+<div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4B79A1&height=220&section=header&text=KRISH%20NANDANVAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Exploring+Artificial+Intelligence;Engineering+Software+That+Matters;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:101827,50:1D3557,100:457B9D&text=KRISH%20NANDANVAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Artificial%20Intelligence&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Undergraduate;Aspiring+Software+Engineer;Exploring+Artificial+Intelligence;Building+Things+That+Matter" alt="Typing animation" />
+
+<br/><br/>
+
 <a href="https://github.com/NandanvarKrish">
-<img src="https://komarev.com/ghpvc/?username=NandanvarKrish&label=PROFILE+VIEWS&color=243B55&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/NandanvarKrish?tab=followers">
-<img src="https://img.shields.io/github/followers/NandanvarKrish?style=for-the-badge&logo=github&label=FOLLOWERS&color=243B55" />
+<a href="https://www.linkedin.com/in/krish-nandanvar-877b02424/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/offtopic_programmerz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/NandanvarKrish"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/krish-nandanvar-877b02424/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=NandanvarKrish&style=flat-square&color=457B9D&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## `$ whoami`
 
-<img align="right" alt="Coding animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
 
-Hey! I'm **Krish Nandanvar**, an AI/ML undergraduate and aspiring software engineer from Surat, India.
+Hey! I'm **Krish Nandanvar**, an AI/ML undergraduate student from Surat, Gujarat, India.
 
-I love exploring technology, understanding how things work behind the scenes, and transforming ideas into useful digital products.
+I'm interested in the intersection of software engineering and artificial intelligence. I enjoy exploring how technology works, developing software products, and learning the engineering principles behind them.
 
-- 🎓 AI/ML Undergraduate Student
-- 💻 Aspiring Software Engineer
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🚀 Building real-world software and SaaS products
-- 🧩 Interested in problem-solving and engineering
-- 🌱 Always learning something new
+- 🎓 AI/ML Undergraduate at CKPCET, Surat
+- 💻 Interested in Software Engineering
+- 🤖 Exploring AI and Machine Learning
+- 🚀 Building software and product-oriented projects
+- 🧠 Learning through experimentation and practical implementation
+- 🌱 Focused on continuous improvement
 
 <br clear="right"/>
 
-### `whoami`
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Krish Nandanvar"
-        self.location = "Surat, India"
-        self.education = "AI/ML Undergraduate"
-        self.roles = [
-            "Software Engineer",
-            "AI/ML Engineer"
-        ]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Software Development",
-            "Product Engineering"
-        ]
-
-    def current_mission(self):
-        return "Learn deeply. Build intelligently. Engineer better."
-
-
-krish = Developer()
-```
-
 ---
 
-## ⚡ My Tech Universe
+## 🧭 My Direction
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,js,ts&theme=dark" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark" />
-
-### AI, Data & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+| Software Engineering | Artificial Intelligence |
+|:---:|:---:|
+| Problem Solving | Machine Learning |
+| Data Structures & Algorithms | Deep Learning |
+| Backend Development | Data Science |
+| System Design | Generative AI |
+| Product Engineering | AI Engineering |
 
 </div>
+
+My long-term goal is to become an engineer who can build complete, useful products — from reliable software foundations to intelligent AI-powered systems.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technology & Tools
 
-<div align="center">
+These are technologies and tools that are part of my learning and development journey. This is not a claim of expert-level proficiency.
 
-<a href="https://github.com/NandanvarKrish/LUNA-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=LUNA-AI&theme=tokyonight&hide_border=true" />
-</a>
+### Programming
 
-<a href="https://github.com/NandanvarKrish/Inventory-and-Billing-management-SaaS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=Inventory-and-Billing-management-SaaS&theme=tokyonight&hide_border=true" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+</p>
 
-<a href="https://github.com/NandanvarKrish/Clothing-Brand-SaaS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=Clothing-Brand-SaaS&theme=tokyonight&hide_border=true" />
-</a>
+### Development & Tools
 
-<a href="https://github.com/NandanvarKrish/SIH26208">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=SIH26208&theme=tokyonight&hide_border=true" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-</div>
+### Technologies I'm Exploring
 
-| Project | Focus |
-|---|---|
-| LUNA AI | Personal AI assistant |
-| Inventory & Billing SaaS | Business management and billing |
-| VÉLURE ATELIER | Fashion e-commerce |
-| BharatVerse / SIH26208 | Smart India Hackathon project |
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,supabase,postgres" />
+</p>
 
 ---
 
-## 🧠 Currently Exploring
+## 🚀 Selected Projects
 
-<div align="center">
+A few projects from my software development and engineering journey.
 
-<img src="https://img.shields.io/badge/Software_Engineering-Exploring-3776AB?style=flat-square" />
-<img src="https://img.shields.io/badge/Data_Structures-Exploring-239120?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine_Learning-Learning-F7931E?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep_Learning-Learning-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative_AI-Exploring-00A67E?style=flat-square" />
+### 01. LUNA AI
 
-</div>
+**Personal AI assistant project**
 
-- Data Structures & Algorithms
-- Mathematics and Statistics for Machine Learning
+An ongoing project exploring the development of an AI-powered assistant.
+
+[View Repository →](https://github.com/NandanvarKrish/LUNA-AI)
+
+### 02. Inventory & Billing Management SaaS
+
+**Business software / SaaS**
+
+A project focused on inventory management and billing workflows for businesses.
+
+[View Repository →](https://github.com/NandanvarKrish/Inventory-and-Billing-management-SaaS)
+
+### 03. VÉLURE ATELIER
+
+**Fashion e-commerce project**
+
+A premium fashion e-commerce experience.
+
+[View Repository →](https://github.com/NandanvarKrish/Clothing-Brand-SaaS)
+
+### 04. BharatVerse — SIH26208
+
+**Smart India Hackathon project**
+
+A team project developed as part of the Smart India Hackathon journey.
+
+[View Repository →](https://github.com/NandanvarKrish/SIH26208)
+
+### More Projects
+
+- [Portfolio](https://github.com/NandanvarKrish/Portfolio)
+- [Smart Study Tracker](https://github.com/NandanvarKrish/Smart-Study-Tracker)
+- [Learning AI/ML](https://github.com/NandanvarKrish/Learning-AI-ML)
+- [DSA](https://github.com/NandanvarKrish/DSA)
+
+---
+
+## 📚 Currently Learning
+
+My learning journey covers multiple areas of computer science and AI.
+
+- Programming fundamentals and problem solving
+- Data Structures and Algorithms
+- Mathematics for Machine Learning
 - Data Analytics and Data Science
-- Classical Machine Learning
+- Machine Learning fundamentals
 - Deep Learning and Neural Networks
 - Generative AI and LLM Engineering
-- Backend Engineering and System Design
-- Scalable AI-powered applications
+- Software architecture and system design
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NandanvarKrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NandanvarKrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanvarKrish&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanvarKrish&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=NandanvarKrish&theme=tokyonight&hide_border=true" />
 
@@ -163,58 +163,60 @@ krish = Developer()
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution animation" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 My Philosophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NandanvarKrish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240" alt="Keep building animation" />
+
+### Learn deeply. Build consistently. Improve continuously.
+
+I believe the best way to understand technology is to build with it, experiment, make mistakes, and keep improving.
 
 </div>
 
 ---
 
-## 💭 Developer Mindset
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Keep coding animation" />
-
-### "First, understand the problem. Then engineer the solution."
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## 🌐 Find Me Online
 
 <div align="center">
 
 <a href="https://github.com/NandanvarKrish">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/krish-nandanvar-877b02424/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-NandanvarKrish-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br/><br/>
 
-**Open to learning, collaborating, and building interesting things.**
+<a href="https://www.linkedin.com/in/krish-nandanvar-877b02424/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4B79A1&height=120&section=footer" />
+<br/><br/>
+
+<a href="https://instagram.com/offtopic_programmerz">
+  <img src="https://img.shields.io/badge/Instagram-@offtopic__programmerz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Open to learning, collaboration and building meaningful things.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:101827,50:1D3557,100:457B9D" />
 
 </div>
