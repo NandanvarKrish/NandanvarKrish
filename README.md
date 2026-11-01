@@ -22,7 +22,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=NandanvarKrish&style=for-the-badge&color=457B9D&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/NandanvarKrish?style=for-the-badge&logo=github&color=1D3557&labelColor=101827" />
-<img src="https://img.shields.io/github/stars/NandanvarKrish?style=for-the-badge&logo=apachespark&color=1D3557&labelColor=101827" />
 
 </div>
 
@@ -94,25 +93,6 @@ class Krish:
 
 ## 🚀 Selected Projects
 
-<div align="center">
-
-<a href="https://github.com/NandanvarKrish/LUNA-AI">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=LUNA-AI&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/NandanvarKrish/Inventory-and-Billing-management-SaaS">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=Inventory-and-Billing-management-SaaS&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/NandanvarKrish/Clothing-Brand-SaaS">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=Clothing-Brand-SaaS&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/NandanvarKrish/SIH26208">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=NandanvarKrish&repo=SIH26208&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -123,6 +103,8 @@ class Krish:
 An ongoing project exploring how to design and build an AI-powered assistant.
 
 `Python` `AI` `LLMs`
+
+<img src="https://img.shields.io/github/last-commit/NandanvarKrish/LUNA-AI?style=flat-square&color=457B9D&labelColor=101827" />
 
 [View Repository →](https://github.com/NandanvarKrish/LUNA-AI)
 
@@ -135,6 +117,8 @@ An ongoing project exploring how to design and build an AI-powered assistant.
 Inventory management and billing workflows built for real business use cases.
 
 `SaaS` `Backend` `Full-Stack`
+
+<img src="https://img.shields.io/github/last-commit/NandanvarKrish/Inventory-and-Billing-management-SaaS?style=flat-square&color=457B9D&labelColor=101827" />
 
 [View Repository →](https://github.com/NandanvarKrish/Inventory-and-Billing-management-SaaS)
 
@@ -150,6 +134,8 @@ A premium, design-focused fashion e-commerce experience.
 
 `E-Commerce` `UI/UX` `SaaS`
 
+<img src="https://img.shields.io/github/last-commit/NandanvarKrish/Clothing-Brand-SaaS?style=flat-square&color=457B9D&labelColor=101827" />
+
 [View Repository →](https://github.com/NandanvarKrish/Clothing-Brand-SaaS)
 
 </td>
@@ -161,6 +147,8 @@ A premium, design-focused fashion e-commerce experience.
 A team project built during the Smart India Hackathon journey.
 
 `Hackathon` `Teamwork` `Problem Solving`
+
+<img src="https://img.shields.io/github/last-commit/NandanvarKrish/SIH26208?style=flat-square&color=457B9D&labelColor=101827" />
 
 [View Repository →](https://github.com/NandanvarKrish/SIH26208)
 
@@ -226,14 +214,6 @@ flowchart LR
 
 <img width="80%" src="https://streak-stats.demolab.com?user=NandanvarKrish&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NandanvarKrish&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=457B9D&point=FFFFFF&area=true&area_color=457B9D" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NandanvarKrish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
@@ -257,10 +237,6 @@ flowchart LR
 ### Learn deeply. Build consistently. Improve continuously.
 
 I believe the best way to understand technology is to build with it, experiment, make mistakes, and keep improving.
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
