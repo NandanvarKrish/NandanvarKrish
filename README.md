@@ -1,172 +1,245 @@
- <!-- Profile README for NandanvarKrish -->
+ <!-- README.md -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:18181b,100:27272a&text=NANDANVAR%20KRISH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%2FML%20ENGINEER%20%7C%20BUILDER&descAlignY=58&descSize=13&animation=fadeIn" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=A1A1AA&center=true&vCenter=true&width=650&lines=Building+things+that+actually+matter.;Engineering+software+with+purpose.;Exploring+the+frontiers+of+AI.;Turning+ideas+into+working+products." alt="Typing SVG" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090b,50:27272a,100:52525b&text=KRISH%20NANDANVAR&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%C3%97%20AI%2FML%20%C3%97%20BUILDING&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Krish Nandanvar — Software Engineering × AI/ML × Building" />
 
 <a href="https://github.com/NandanvarKrish">
-<img src="https://komarev.com/ghpvc/?username=NandanvarKrish&style=flat-square&color=71717a&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&center=true&vCenter=true&width=650&lines=I+build+things+to+understand+how+they+work.;Engineering+software.+Exploring+intelligence.;From+low-level+code+to+AI-powered+products.;Learning+deeply.+Building+continuously." alt="Animated introduction" />
 </a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-NandanvarKrish-181717?style=for-the-badge&logo=github)](https://github.com/NandanvarKrish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krish-nandanvar-877b02424/)
+[![Instagram](https://img.shields.io/badge/Instagram-@offtopic__programmerz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/offtopic_programmerz)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NandanvarKrish&style=flat-square&color=71717a&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `$ whoami`
+## `01 / THE PERSON`
 
 ```python
 class Krish:
     def __init__(self):
-        self.name = "Nandanvar Krish"
         self.role = "Software Engineer × AI/ML Engineer"
         self.education = "AI/ML Undergraduate"
         self.location = "Surat, India"
 
         self.interests = [
+            "Software Engineering",
             "Artificial Intelligence",
             "Machine Learning",
-            "Software Engineering",
-            "System Design",
-            "Building Real-World Products"
+            "Data Science",
+            "Systems & Simulations",
+            "Building Products"
         ]
 
-        self.current_focus = [
-            "Data Structures & Algorithms",
-            "Machine Learning",
-            "Backend Engineering",
-            "AI Systems"
+        self.mindset = "Understand deeply. Build thoughtfully."
+
+    def currently_doing(self):
+        return [
+            "Strengthening computer science fundamentals",
+            "Exploring machine learning and AI engineering",
+            "Building practical software projects",
+            "Turning ideas into working systems"
         ]
-
-    def ambition(self):
-        return "Build technology that solves meaningful problems."
-
-
-me = Krish()
 ```
 
-I'm an AI/ML undergraduate who enjoys understanding how technology works beneath the surface.
+I'm an AI/ML undergraduate interested in the engineering behind intelligent software.
 
-I focus on engineering software, exploring intelligent systems, and turning complex ideas into practical products.
+I enjoy working across the stack — from programming fundamentals and software architecture to machine learning, simulations, and product development.
 
-**My philosophy:** Understand deeply. Build relentlessly. Ship meaningfully.
+I don't want to just use technology. I want to understand how it works, why it works, and how to build it myself.
+
+**My philosophy:** Learn the fundamentals. Understand the internals. Build something real.
 
 ---
 
-## `$ tech_stack`
+## `02 / THE ENGINEERING STACK`
 
-**Languages**
+**Programming**
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,js,ts,dart" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Development & Frameworks**
+**Frontend & Application Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,flutter" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **AI / ML & Data**
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Databases, Tools & Infrastructure**
+**Backend, Database & Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,git,github,vscode,linux,docker,vercel" />
-</p>
-
----
-
-## `$ featured_projects`
-
-A few things I'm building and experimenting with.
-
-| Project | Description |
-|---|---|
-| **LUNA AI** | A voice-first desktop AI assistant exploring intelligent computer interaction. |
-| **VÉLURE ATELIER** | A premium e-commerce platform with modern full-stack architecture. |
-| **BharatVerse** | An interactive exploration of India's heritage, culture and biodiversity. |
-| **Tesla Roadster Simulation** | An interactive engineering and visualization experiment. |
-
-> More experiments, engineering projects and open-source work coming soon.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## `$ github_statistics`
+## `03 / SELECTED BUILDS`
+
+> Ideas are interesting. Working systems are better.
+
+### 01 — LUNA AI
+**A voice-first desktop AI assistant**
+
+An AI assistant project exploring a more natural, voice-driven desktop experience.
+
+- Desktop application architecture.
+- React, TypeScript, Vite and Tauri.
+- Python integration and JSON-based storage.
+- Gemini API integration.
+
+`AI` `Desktop Engineering` `Voice Interfaces` `React` `Python`
+
+### 02 — VÉLURE ATELIER
+**A premium fashion e-commerce experience**
+
+A modern e-commerce platform focused on premium clothing, shopping experiences, and administration.
+
+- Next.js, React and TypeScript.
+- Supabase authentication and database.
+- Product and inventory workflows.
+- Admin dashboard and order management.
+
+`Full Stack` `E-Commerce` `Next.js` `Supabase`
+
+### 03 — BharatVerse
+**Exploring India's heritage through technology**
+
+A gamified platform concept focused on Indian heritage, culture, geography, and biodiversity.
+
+- Built around the SIH26208 problem statement.
+- Designed for interactive cultural learning.
+- Includes the concept of an AI-guided experience.
+
+`Product Development` `EdTech` `Gamification` `AI`
+
+### 04 — Simulation Experiments
+**Understanding systems by building them**
+
+Exploring how mathematical ideas, algorithms, and programming can produce interactive simulations.
+
+- Tesla Roadster visualization project.
+- Rubik's Cube simulation project.
+- Interest in physics, mathematical modeling, and computational systems.
+
+`Simulation` `Mathematics` `Programming` `Visualization`
+
+### 05 — C Programming
+**Programming fundamentals**
+
+A collection of my C programming work and learning.
+
+[![Explore C Repository](https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/NandanvarKrish/C)
+
+`C` `Programming Fundamentals`
+
+---
+
+## `04 / CURRENT EXPLORATION`
+
+```text
+SOFTWARE ENGINEERING
+├── Data Structures & Algorithms
+├── Computer Science Fundamentals
+├── Backend Engineering
+└── System Design
+
+ARTIFICIAL INTELLIGENCE
+├── Mathematics for Machine Learning
+├── Data Analytics & Data Science
+├── Machine Learning
+├── Deep Learning
+└── AI Engineering
+
+BUILDING
+├── Developer Tools
+├── AI-powered Applications
+├── Simulations
+└── Real-world Products
+```
+
+---
+
+## `05 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NandanvarKrish&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&rank_icon=github" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NandanvarKrish&bg_color=0d1117&color=a1a1aa&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanvarKrish&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa" />
+<br/><br/>
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NandanvarKrish&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=NandanvarKrish&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a1a1aa&dates=71717a" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanvarKrish&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Most used programming languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=NandanvarKrish&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## `$ contribution_activity`
+## `06 / BEYOND THE CODE`
+
+I also enjoy exploring how technology can be communicated, not just developed.
+
+Through **@offtopic_programmerz**, I explore programming concepts, AI, hidden engineering behind everyday technology, and the future of software.
+
+[![Instagram](https://img.shields.io/badge/EXPLORE_TECH_CONTENT-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/offtopic_programmerz)
+
+---
+
+## `07 / LET'S CONNECT`
+
+Interested in engineering, AI, open-source, or building something meaningful?
+
+I'm always open to connecting with people who enjoy learning, experimenting, and creating.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NandanvarKrish&bg_color=00000000&color=a1a1aa&line=ffffff&point=ffffff&area=true&area_color=71717a&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
-## `$ currently_exploring`
-
-- Deep Learning & Neural Networks
-- Machine Learning Engineering
-- Data Science & Analytics
-- Backend Architecture & System Design
-- AI Agents and Intelligent Systems
-- Open-source engineering
-
----
-
-## `$ beyond_the_terminal`
-
-I enjoy exploring the intersection of engineering, mathematics, creativity and emerging technology.
-
-I also create technical content explaining complex programming and AI concepts in simple ways.
-
-**Always interested in:** Collaborating on meaningful open-source projects, building ambitious products, and learning from other engineers.
-
----
-
-## `$ connect_with_me`
-
-<div align="center">
-
+<a href="https://github.com/NandanvarKrish">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/krish-nandanvar-877b02424/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/offtopic_programmerz">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/NandanvarKrish">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:27272a,100:09090b" width="100%" />
+**BUILD. BREAK. UNDERSTAND. REBUILD.**
 
-**"The best way to predict the future is to engineer it."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52525b,100:09090b&height=120&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
 
+<!-- End of README.md -->
